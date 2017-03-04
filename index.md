@@ -8,7 +8,7 @@ Our current project is: **HatClient**<br>
 
 ## Future Project
 
-Our future project is: **HatBot**</br>
+Our future project is: **HatBot**<br>
 [Repository](https://github.com/HatCrew/HatBot)
 ### Contact Us
 
