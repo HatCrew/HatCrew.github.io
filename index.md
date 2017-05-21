@@ -9,7 +9,7 @@
 
 ## HatBot
 
-[Repository](https://github.com/HatCrew/HatBot)
+[Repository](https://github.com/HatCrew/HatBot)<br>
 Demo Page coming soon (For Feature-Heavy version)
 
 ### Contact Us (Me...)
