@@ -5,12 +5,11 @@
 ## HatClient
 
 [Repository](https://github.com/HatCrew/HatClient/)<br>
-[Demo Page](https://hatcrew.github.io/hatclient/)
+[Demo Page](http://paswd4.com/HatClient/demo/)
 
 ## HatBot
 
 [Repository](https://github.com/HatCrew/HatBot)<br>
-Demo Page coming soon (For Feature-Heavy version)
 
 ### Contact Us (Me...)
 
